@@ -26,3 +26,8 @@
   border: 2px solid rgb(17, 60, 252);
   color: rgb(17, 60, 252);
 }
+
+.TodoSearch:disabled
+{
+  opacity: 25%;
+}
